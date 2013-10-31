@@ -47,9 +47,9 @@
 using namespace std;
 
 //mapper options
-static const string PROG = "ALFALFA";
+static const string PROG = "GSLAP";
 static const string SAM_VERSION = "1.3";
-static const string PROG_VERSION = "0.6";
+static const string PROG_VERSION = "0.1";
 static const string NOT_AVAILABLE = "*";
 
 //output struct
