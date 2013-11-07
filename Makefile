@@ -75,7 +75,7 @@ OBJDIR = obj
 
 # The executable file name.
 # If not specified, current directory name or `a.out' will be used.
-PROGRAM = gslap
+PROGRAM = mesalina
  
 ## Implicit Section: change the following only when necessary.
 ##==========================================================================

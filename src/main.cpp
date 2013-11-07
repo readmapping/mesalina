@@ -47,7 +47,7 @@
 using namespace std;
 
 //mapper options
-static const string PROG = "GSLAP";
+static const string PROG = "mesalina";
 static const string SAM_VERSION = "1.3";
 static const string PROG_VERSION = "0.1";
 static const string NOT_AVAILABLE = "*";
